@@ -1,0 +1,20 @@
+2021-06-06_14-21-08 [http-nio-8500-exec-3] ERROR c.c.p.e.GlobalExceptionHandler - handles by handleFeignStatusException
+2021-06-06_14-21-08 [http-nio-8500-exec-3] ERROR c.c.p.e.GlobalExceptionHandler - Connection refused: connect executing GET http://localhost:8200/ipTreatment/getAllTreatmentPlan
+2021-06-06_14-21-08 [http-nio-8500-exec-8] ERROR c.c.p.e.GlobalExceptionHandler - handles by handleFeignStatusException
+2021-06-06_14-21-08 [http-nio-8500-exec-8] ERROR c.c.p.e.GlobalExceptionHandler - Connection refused: connect executing GET http://localhost:8200/ipTreatment/getAllTreatmentPlan
+2021-06-06_14-21-08 [http-nio-8500-exec-5] ERROR c.c.p.e.GlobalExceptionHandler - handles by handleFeignStatusException
+2021-06-06_14-21-08 [http-nio-8500-exec-5] ERROR c.c.p.e.GlobalExceptionHandler - Connection refused: connect executing GET http://localhost:8300/insure/getAllInsurerDetail
+2021-06-06_15-00-39 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8500 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8500 or configure this application to listen on another port.
+
