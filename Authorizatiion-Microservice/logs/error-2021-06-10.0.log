@@ -1,0 +1,38 @@
+2021-06-10_09-08-24 [main] ERROR c.c.a.e.GlobalExceptionHandler - message
+2021-06-10_09-08-24 [main] ERROR c.c.a.e.GlobalExceptionHandler - message
+2021-06-10_09-09-01 [main] ERROR c.c.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.cts.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.cts.authorization.model.JwtRequest) throws com.cts.authorization.exception.AuthorizationException
+2021-06-10_09-09-01 [main] ERROR c.c.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.cts.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.cts.authorization.model.JwtRequest) throws com.cts.authorization.exception.AuthorizationException
+2021-06-10_09-09-01 [main] ERROR c.c.a.e.GlobalExceptionHandler - null
+2021-06-10_09-09-01 [main] ERROR c.c.a.e.GlobalExceptionHandler - null
+2021-06-10_09-11-15 [http-nio-8400-exec-4] ERROR c.c.a.config.JwtRequestFilter - JWT Token has expired
+2021-06-10_14-05-32 [main] ERROR c.c.a.e.GlobalExceptionHandler - message
+2021-06-10_14-05-32 [main] ERROR c.c.a.e.GlobalExceptionHandler - message
+2021-06-10_14-05-59 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8400 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8400 or configure this application to listen on another port.
+
+2021-06-10_14-06-08 [main] ERROR c.c.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.cts.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.cts.authorization.model.JwtRequest) throws com.cts.authorization.exception.AuthorizationException
+2021-06-10_14-06-08 [main] ERROR c.c.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.cts.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.cts.authorization.model.JwtRequest) throws com.cts.authorization.exception.AuthorizationException
+2021-06-10_14-06-08 [main] ERROR c.c.a.e.GlobalExceptionHandler - null
+2021-06-10_14-06-08 [main] ERROR c.c.a.e.GlobalExceptionHandler - null
+2021-06-10_14-09-10 [main] ERROR c.c.a.e.GlobalExceptionHandler - message
+2021-06-10_14-09-10 [main] ERROR c.c.a.e.GlobalExceptionHandler - message
+2021-06-10_14-09-56 [main] ERROR c.c.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.cts.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.cts.authorization.model.JwtRequest) throws com.cts.authorization.exception.AuthorizationException
+2021-06-10_14-09-56 [main] ERROR c.c.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.cts.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.cts.authorization.model.JwtRequest) throws com.cts.authorization.exception.AuthorizationException
+2021-06-10_14-09-56 [main] ERROR c.c.a.e.GlobalExceptionHandler - null
+2021-06-10_14-09-56 [main] ERROR c.c.a.e.GlobalExceptionHandler - null
+2021-06-10_14-14-16 [main] ERROR c.c.a.e.GlobalExceptionHandler - message
+2021-06-10_14-14-16 [main] ERROR c.c.a.e.GlobalExceptionHandler - message
+2021-06-10_14-14-57 [main] ERROR c.c.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.cts.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.cts.authorization.model.JwtRequest) throws com.cts.authorization.exception.AuthorizationException
+2021-06-10_14-14-57 [main] ERROR c.c.a.e.GlobalExceptionHandler - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.cts.authorization.controller.JwtAuthenticationController.createAuthenticationToken(com.cts.authorization.model.JwtRequest) throws com.cts.authorization.exception.AuthorizationException
+2021-06-10_14-14-57 [main] ERROR c.c.a.e.GlobalExceptionHandler - null
