@@ -1,0 +1,2 @@
+2021-06-05_14-01-53 [http-nio-8100-exec-6] ERROR c.c.m.e.GlobalExceptionHandler - Missing request header 'Authorization' for method parameter of type String
+2021-06-05_14-01-53 [http-nio-8100-exec-8] ERROR c.c.m.e.GlobalExceptionHandler - Missing request header 'Authorization' for method parameter of type String
